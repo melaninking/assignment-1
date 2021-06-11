@@ -1,0 +1,32 @@
+.container{
+    width: 80%;background-color: rgb(255, 255, 255);margin: 0 auto;
+    text-align: justify;}
+.top-menu{background-color: rgb(75, 75, 75);overflow: hidden;}
+
+.top-menu ul li{
+    list-style-type: none;
+    float: left;
+    border-right: 2px solid rgb(0, 0, 0);
+    font-weight:bold;
+    padding: 5px 10px;
+    
+}
+
+.top-menu ul li a{
+    text-decoration: underline;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 900;
+    
+}   
+h1.title {padding: 20px;
+    text-transform: uppercase;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    
+}
+h1.title:hover{
+    text-decoration: overline;
+    color: rgb(112, 47, 0);
+    font-size: 30px;}
